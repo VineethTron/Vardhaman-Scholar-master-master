@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Montserrat&family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.ideahubbody{
+    background: linear-gradient(to right, #44a08d, #093637);
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+    min-height: 100vh;
+    width: 100%;
+
+}
+
+.ideahubHeading{
+    margin-top: 70px;
+    font-size: 70px;
+    font-family: 'Roboto Slab';
+    font-style: bold;
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.idea{
+   width: 450px;
+   height: 200px;
+   padding: 15px 20px;
+   font-family: 'Montserrat';
+   font-size: 20px;
+   font-weight: 400;
+   font-weight: bold;
+   border-radius: 7px;
+   margin-top: 20px;
+   margin-bottom: 40px;
+}
+
+.ideaButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.ClickButtonfeatures {
+    cursor: pointer;
+    border: 0;
+    border-radius: 8px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    font-size:20px ;
+    font-weight: 1000;
+    width:170px;
+    height: 170px;
+    padding: 10px 0px;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.2);
+    transition: 0.6s;
+    color: black;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(104, 85, 224, 1);
+    font-family: 'Montserrat';
+  }
+
+.ClickButtonfeatures:hover {
+    color: white;
+    box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+    background-color: rgba(104, 85, 224, 1);
+  }
+
+.ideaButtons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.homepage{
+    width: 200px;
+    height: 50px;
+    margin-right: 20px;
+    margin-left: 15px;
+}
+
+.submitidea{
+    width: 200px;
+    height: 50px;
+    margin-left: 73px;
+}
+
+.submitidea:hover {
+    color: white;
+    box-shadow: 0 0 20px rgba(203, 84, 4, 0.6);
+    background-color: rgb(193, 125, 8);
+  }
+
+.homepage:hover {
+    color: white;
+    box-shadow: 0 0 20px rgba(51, 86, 228, 0.6);
+    background-color: rgb(75, 173, 234);
+  }
