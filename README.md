@@ -5,6 +5,7 @@
 2. Created Features Page
 3. Created IdeaHub Page
 4. Created Talks Page
+5. Created Career Paths Page
 
 ## Screenshots
 
@@ -22,3 +23,8 @@
 
 ### Talks Page
 ![Screenshot (386)](https://user-images.githubusercontent.com/101012091/195716615-5153c02e-e9ad-41a2-a75e-703ab3e18950.png)
+
+# Career Paths
+##![Screenshot (391)](https://user-images.githubusercontent.com/101012091/195980848-b4494e04-75b8-4a8e-8c59-f8338c4c2d7c.png)
+
+
