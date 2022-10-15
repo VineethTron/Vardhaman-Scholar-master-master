@@ -8,13 +8,13 @@
     justify-content: flex-start;
     align-items: center;
     padding: 0px;
-    min-height: 100vh;
+    min-height: 80vh;
     width: 100%;
 
 }
 
 .ideahubHeading{
-    margin-top: 70px;
+    margin-top: 40px;
     font-size: 70px;
     font-family: 'Roboto Slab';
     font-style: bold;
@@ -26,8 +26,8 @@
 }
 
 .idea{
-   width: 450px;
-   height: 200px;
+   width: 700px;
+   height: 350px;
    padding: 15px 20px;
    font-family: 'Montserrat';
    font-size: 20px;
