@@ -4,18 +4,21 @@
     font-family: 'Montserrat', sans-serif;
 }
 body{
-    background-color:rgb(80, 80, 80);
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    height: 100vh;
 }
 .box {
     margin: auto;
-    margin-top: 50px;
-    width: 50%;
+    margin-top: 200px;
+    width: 300px;
     padding: 10px;
-    padding-top: 50px;
-    height:600px;
+    padding-top: 20px;
+    height:250px;
     background-color: aliceblue;
     border-radius: 10px;
     text-align: center;
+    box-shadow: 5px 5px 10px 3px rgb(134, 111, 111);
+    border: 1px solid black;
   }
   input{
     margin: 10px;
@@ -24,13 +27,15 @@ body{
     border-radius:5px;
     border:1px solid black;
     height:25px;
-    width: 200px;
+    width: 170px;
+    padding-left: 40px;
   }
   input[type=password]{
     border-radius:5px;
     border:1px solid black;
     height:25px;
-    width: 200px;
+    width: 170px;
+    padding-left: 40px;
   }
   i{
     position: absolute;
@@ -49,6 +54,7 @@ body{
     width: 150px;
     background-color: rgb(33, 33, 33);
     color: white;
+    margin-top: 10px;
   }
   ::-webkit-input-placeholder{
     padding-left: 30px;
