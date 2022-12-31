@@ -25,4 +25,6 @@
 ### Career Paths
 ![Screenshot (391)](https://user-images.githubusercontent.com/101012091/195980848-b4494e04-75b8-4a8e-8c59-f8338c4c2d7c.png)
 
+### Profile Strength
+![Vardhaman Scholar _ Profile_1](https://user-images.githubusercontent.com/101012091/210153220-c39cf588-bf86-495f-9fe1-6ed59b8c1860.jpg)
 
